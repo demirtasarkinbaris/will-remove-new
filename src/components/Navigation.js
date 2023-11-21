@@ -12,8 +12,8 @@ const Navigation = ({ account, setAccount }) => {
 		setAccount(account);
 	};
 
-	const { address } = useAccount();
-	setAccount(address);
+	// const { address } = useAccount();
+	// setAccount(address);
 
 	return (
 		<nav>
