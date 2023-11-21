@@ -1,0 +1,10 @@
+ipfs://bafkreieqcdhjzuqluqscotmf37hhcltnde4uwwwd4zzbpzlabpvnxmv4by --> camera
+ipfs://bafkreicwjwlv6doj3avpninlshc7zeuc25kwm5slyytc2s5ko2hip7d6fq --> drone
+ipfs://bafkreif5q2ccauxx27xswtxsa26bw3edzyg4whd5i4we3nyzhjvagxlz3a --> cube
+ipfs://bafkreicwb2kzcc5js4oljdsdqnkq4lokz7zzbafrpegwqd5unt5qskpa3u --> robot
+ipfs://bafkreigp6ngm2qc3b3b23enop2olumgf2nkkclddxqvj6priwok2eq3u6q --> headset
+ipfs://bafkreihfmt5idbze2queoxt3cftoy5k7mwxyrm3wsz7j72vrpvp4oh2xg4 --> glass
+ipfs://bafkreic6e4ksdx3msf6yhikaemiu7b7qipaooqzltyso7pcq4ierojxgsu --> train
+ipfs://bafkreia6sfu24jq4marcipg4sjxbg6ih23cll4crkjuln3clfslpuk2pzi --> watch
+ipfs://bafkreihsga26t6caynxhelsmn7zfbiyiadyj2u4ckskaqv7ynobkjwlhei --> shoes
+ipfs://bafkreif55p3jzh4ikuhbqdfltvdbe37inofmnzhvy2g4c6wlktawa7ql7m --> phone

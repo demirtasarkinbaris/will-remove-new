@@ -1,0 +1,71 @@
+{
+    "name": "CASIO Steel Business Watch",
+    "description": "The CASIO Steel Business Watch is a stylish and versatile timepiece. It features a steel case and steel strap, with a case diameter ranging from 41mm to 46mm. The case and strap are both made of steel, giving the watch durability and a classic look. The case color is smoky (fume), and the strap is black. The watch has an analog mechanism with a round dial and a domed glass. It belongs to the Business collection and comes with no warranty. The design is a plain color with a black color scheme, making it suitable for various business environments.",
+    "image": "ipfs://bafkreih2cdkegthz7n6fs44dg6pyxtn7ueriifre5tk2bsf4en6uvjj6yq",
+    "attributes": [
+        {
+            "trait_type": "Case Diameter",
+            "value": "41-46 mm"
+        },
+        {
+            "trait_type": "Case Material",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Strap Material",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Case Color",
+            "value": "Smoky (Fume)"
+        },
+        {
+            "trait_type": "Strap Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Crystal Type",
+            "value": "Glass"
+        },
+        {
+            "trait_type": "Mechanism",
+            "value": "Analog"
+        },
+        {
+            "trait_type": "Dial Shape",
+            "value": "Round"
+        },
+        {
+            "trait_type": "Crystal Shape",
+            "value": "Domed"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Wristwatch"
+        },
+        {
+            "trait_type": "Warranty Period",
+            "value": "None"
+        },
+        {
+            "trait_type": "Pattern",
+            "value": "Solid Color"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Business"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Business"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Steel"
+        }
+    ]
+}

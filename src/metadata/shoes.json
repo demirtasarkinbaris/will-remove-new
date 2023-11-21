@@ -1,0 +1,23 @@
+{
+    "name": "Jumpman MVP Sneakers",
+    "description": "The Jumpman MVP sneakers feature an embroidered Jumpman logo. They come in a white, off-noir, and black colorway with the style code DZ4475-100. Made in Vietnam.",
+    "image": "ipfs://bafybeiaeap2ryipggwguqayolcxni3u5dxq77qguuj4puf3ckt5go2cbwa",
+    "attributes": [
+        {
+            "trait_type": "Logo",
+            "value": "Embroidered Jumpman"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White/Off Noir/Black"
+        },
+        {
+            "trait_type": "Style",
+            "value": "DZ4475-100"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "Vietnam"
+        }
+    ]
+}

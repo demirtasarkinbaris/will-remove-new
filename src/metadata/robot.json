@@ -1,0 +1,27 @@
+{
+    "name": "Silverlit Pokibot Robot - Turquoise",
+    "description": "Pokibot is an interactive robot that can dance, speak, and repeat sounds. It responds to various sound inputs like clicks, taps, claps, and more with different sounds and actions. You can convert your messages into robotic speech with this robot. Pokibot can also interact with other Silverlit brand robots like Maze Breaker & Macro Bot. For more information, please download the free app. Pokibot can be controlled using IOS & Android applications on mobile phones.",
+    "image": "ipfs://bafkreibcb6yotwhkb4v32i6ozivgd42cuwclnwh4em4xlauwpqehkdtzii",
+    "attributes": [
+        {
+            "trait_type": "Interactivity",
+            "value": "Dancing, Speaking, Sound Repetition, Message Conversion"
+        },
+        {
+            "trait_type": "Compatibility",
+            "value": "Silverlit Robots (Maze Breaker, Macro Bot), IOS & Android Apps"
+        },
+        {
+            "trait_type": "Control Method",
+            "value": "Mobile Apps (IOS & Android)"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "Power Source",
+            "value": "Battery (Not Included)"
+        }
+    ]
+}

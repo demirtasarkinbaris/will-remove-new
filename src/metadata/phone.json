@@ -1,0 +1,123 @@
+{
+    "name": "iPhone 15",
+    "description": "iPhone 15 is a smart phone from Apple with powerful A16 Bionic processor, 48 MP camera, water resistance, fast charging, and a range of advanced features.",
+    "image": "ipfs://bafkreih7ve2izxqz26mjbxcip7pmog2l6he4y5wado5mg6bxa5a4udz55y",
+    "attributes": [
+        {
+            "trait_type": "Processor Speed",
+            "value": "2x 3.46 GHz Everest"
+        },
+        {
+            "trait_type": "Processor Type",
+            "value": "Apple A16 Bionic"
+        },
+        {
+            "trait_type": "Number of Processors",
+            "value": "6 Cores"
+        },
+        {
+            "trait_type": "Screen Size",
+            "value": "6.1 inch"
+        },
+        {
+            "trait_type": "Screen Refresh Rate",
+            "value": "60 Hz"
+        },
+        {
+            "trait_type": "Screen Resolution",
+            "value": "1179x2556 (FHD+) Pixels"
+        },
+        {
+            "trait_type": "Phone Features",
+            "value": "Dual SIM, HDR, OLED"
+        },
+        {
+            "trait_type": "Camera Resolution",
+            "value": "48 MP"
+        },
+        {
+            "trait_type": "Front Camera Resolution",
+            "value": "12 MP"
+        },
+        {
+            "trait_type": "Slow Motion Video Recording",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "4K Video Recording",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Wi-Fi",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Bluetooth",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Battery Power",
+            "value": "3877 mAh"
+        },
+        {
+            "trait_type": "Wireless Charging",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Water Resistance",
+            "value": "IPX8"
+        },
+        {
+            "trait_type": "Internal Storage",
+            "value": "128 GB"
+        },
+        {
+            "trait_type": "Phone Model",
+            "value": "iPhone 15"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Fast Charging",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Warranty",
+            "value": "24 Months"
+        },
+        {
+            "trait_type": "Operating System",
+            "value": "iOS"
+        },
+        {
+            "trait_type": "GPS",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "NFC",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "171 g"
+        },
+        {
+            "trait_type": "Width",
+            "value": "71.6 mm"
+        },
+        {
+            "trait_type": "Thickness",
+            "value": "7.8 mm"
+        },
+        {
+            "trait_type": "Height",
+            "value": "147.6 mm"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Splash Resistance"
+        }
+    ]
+}

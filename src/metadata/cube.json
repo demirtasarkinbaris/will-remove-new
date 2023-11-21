@@ -1,0 +1,39 @@
+{
+    "name": "Rubik Cube",
+    "description": "The Rubik Cube is made from eco-friendly ABS material to prevent peeling. It does not have sticker labels, making it waterproof and fade-resistant. The surface has a matte finish. It features corner design with anti-POP feature for exceptional performance. The cross shaft design allows for smooth movements and a flawless gaming experience. It is non-sticky, smooth, and durable.",
+    "image": "ipfs://bafybeidmwhqytqezimbw7i6ffrrqqop7xyijmyxpk5uepjjqr2e7rmtnvi",
+    "attributes": [
+        {
+            "trait_type": "Material",
+            "value": "Eco-friendly ABS"
+        },
+        {
+            "trait_type": "Label Type",
+            "value": "No Sticker"
+        },
+        {
+            "trait_type": "Waterproof",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Fade-Resistant",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Surface Finish",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Corner Design",
+            "value": "Anti-POP"
+        },
+        {
+            "trait_type": "Shaft Design",
+            "value": "Cross Shaft"
+        },
+        {
+            "trait_type": "Smoothness",
+            "value": "Smooth and Durable"
+        }
+    ]
+}

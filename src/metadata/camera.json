@@ -1,0 +1,47 @@
+{
+    "name": "Canon EOS M7 Camera",
+    "description": "The Canon EOS M7 is a mirrorless camera with a 32.5 MP APS-C CMOS sensor and Dual Pixel CMOS AF II. It supports 4K60 10-bit video with HDR-PQ and C-Log 3. The camera offers a 30 fps electronic shutter and 15 fps mechanical shutter, a 2.36m-dot OLED EVF, a 1.6m-dot vari-angle touch LCD, sensor-shift 5-axis image stabilization, dual UHS-II memory card slots, Wi-Fi, and Bluetooth connectivity. The camera body weighs 530 grams.",
+    "image": "ipfs://bafybeidndg6h6rvkxfjukr767odkawj3r67ushhjxrbjgoddnkjfqtvrpu",
+    "attributes": [
+        {
+            "trait_type": "Sensor",
+            "value": "32.5 MP APS-C CMOS"
+        },
+        {
+            "trait_type": "Autofocus",
+            "value": "Dual Pixel CMOS AF II"
+        },
+        {
+            "trait_type": "Video Recording",
+            "value": "4K60 10-bit with HDR-PQ and C-Log 3"
+        },
+        {
+            "trait_type": "Shutter Speed",
+            "value": "30 fps Electronic, 15 fps Mechanical"
+        },
+        {
+            "trait_type": "Viewfinder",
+            "value": "2.36m-dot OLED EVF"
+        },
+        {
+            "trait_type": "LCD",
+            "value": "1.6m-dot Vari-Angle Touch"
+        },
+        {
+            "trait_type": "Image Stabilization",
+            "value": "5-Axis Sensor-Shift"
+        },
+        {
+            "trait_type": "Memory Card Slots",
+            "value": "Dual UHS-II"
+        },
+        {
+            "trait_type": "Connectivity",
+            "value": "Wi-Fi and Bluetooth"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "530g (Body)"
+        }
+    ]
+}

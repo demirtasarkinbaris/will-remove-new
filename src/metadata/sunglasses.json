@@ -1,0 +1,47 @@
+{
+    "name": "Maybacthe Sunglasses",
+    "description": "The Maybacthe sunglasses, with product code GU036425, are from the brand Ray-Ban. They are designed for both men and women, making them unisex. These sunglasses are non-polarized and do not have mirrored lenses. They come in a bronze frame color with model number 0Rbr0101s. The product is made of metal and the dimensions are 59mm (lens width) x 11mm (bridge width) x 140mm (temple length).",
+    "image": "ipfs://bafybeigy7nxwony2smo732fqvhrzggssjlwwm7qk4dfc5soath47i65iie",
+    "attributes": [
+        {
+            "trait_type": "Product Code",
+            "value": "GU036425"
+        },
+        {
+            "trait_type": "Brand",
+            "value": "Ray-Ban"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Unisex"
+        },
+        {
+            "trait_type": "Polarized",
+            "value": "No"
+        },
+        {
+            "trait_type": "Mirrored Lenses",
+            "value": "No"
+        },
+        {
+            "trait_type": "Polarized Coating",
+            "value": "No"
+        },
+        {
+            "trait_type": "Frame Color",
+            "value": "Bronze"
+        },
+        {
+            "trait_type": "Model Number",
+            "value": "0Rbr0101s"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Metal"
+        },
+        {
+            "trait_type": "Dimensions",
+            "value": "59mm x 11mm x 140mm"
+        }
+    ]
+}

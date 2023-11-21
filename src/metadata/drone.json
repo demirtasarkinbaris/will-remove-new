@@ -1,0 +1,43 @@
+{
+    "name": "DJI Mavic 3 Drone",
+    "description": "The DJI Mavic 3 Drone is equipped with a dual-camera system featuring a 3-axis gimbal. It offers a 20MP 5.1K wide-angle 4/3 CMOS Hasselblad camera alongside a 28x hybrid zoom 12MP telephoto lens. With a flight time of up to 46 minutes and a transmission range of up to 9.3 miles, it includes a 360° obstacle avoidance system, 10-bit D-Log color profile and HNCS, 1080p60 live video streaming, and 8 GB of onboard storage. It comes with the RC-N1 OcuSync 2.0 remote controller.",
+    "image": "ipfs://bafybeigdxrvnsncwiaqcngxnghifyb3ai74iky5uymy27t5ukdzwky2dce",
+    "attributes": [
+        {
+            "trait_type": "Camera",
+            "value": "Dual-camera system with 3-axis gimbal"
+        },
+        {
+            "trait_type": "Camera Specifications",
+            "value": "20MP 5.1K wide-angle 4/3 CMOS Hasselblad & 28x hybrid zoom 12MP telephoto"
+        },
+        {
+            "trait_type": "Flight Time",
+            "value": "Up to 46 minutes"
+        },
+        {
+            "trait_type": "Transmission Range",
+            "value": "Up to 9.3 miles"
+        },
+        {
+            "trait_type": "Obstacle Avoidance System",
+            "value": "360° obstacle avoidance"
+        },
+        {
+            "trait_type": "Color Profile",
+            "value": "10-bit D-Log and HNCS"
+        },
+        {
+            "trait_type": "Live Video Streaming",
+            "value": "1080p60"
+        },
+        {
+            "trait_type": "Storage",
+            "value": "8 GB onboard storage"
+        },
+        {
+            "trait_type": "Remote Controller",
+            "value": "RC-N1 OcuSync 2.0 included"
+        }
+    ]
+}

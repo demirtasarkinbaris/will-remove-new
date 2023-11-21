@@ -1,0 +1,39 @@
+{
+    "name": "Wired Black Headset with Microphone",
+    "description": "This headset features a built-in microphone, black color, and operates using a wired connection with a Micro USB. It does not have noise cancellation, has an impedance of 32 Ohms, and weighs 285 grams. This headset does not include 3.5mm connectors.",
+    "image": "ipfs://bafkreig5wn4nhv3hi6gbqlbzvaluuevdsbk4r7vcqfwl7ldldkbmrutyea",
+    "attributes": [
+        {
+            "trait_type": "Microphone",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Connection Type",
+            "value": "Wired (Micro USB)"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Connection Features",
+            "value": "Micro USB"
+        },
+        {
+            "trait_type": "Noise Cancellation",
+            "value": "No"
+        },
+        {
+            "trait_type": "Impedance (Ohm)",
+            "value": "32"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "285g"
+        },
+        {
+            "trait_type": "3.5mm Connectors",
+            "value": "No"
+        }
+    ]
+}
