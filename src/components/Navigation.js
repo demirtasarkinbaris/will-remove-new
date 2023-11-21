@@ -4,13 +4,13 @@ import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { useAccount } from "wagmi";
 
 const Navigation = ({ account, setAccount }) => {
-	// const connectHandler = async () => {
-	// 	const accounts = await window.ethereum.request({
-	// 		method: "eth_requestAccounts",
-	// 	});
-	// 	const account = ethers.utils.getAddress(accounts[0]);
-	// 	setAccount(account);
-	// };
+	const connectHandler = async () => {
+		const accounts = await window.ethereum.request({
+			method: "eth_requestAccounts",
+		});
+		const account = ethers.utils.getAddress(accounts[0]);
+		setAccount(account);
+	};
 
 	const { address } = useAccount();
 	setAccount(address);
@@ -24,7 +24,7 @@ const Navigation = ({ account, setAccount }) => {
 			{/* <input type="text" className="nav__search" /> */}
 			{<div> </div>}
 
-			{/* {account ? (
+			{account ? (
 				<button type="button" className="nav__connect">
 					{account.slice(0, 6) + "..." + account.slice(38, 42)}
 				</button>
@@ -32,9 +32,9 @@ const Navigation = ({ account, setAccount }) => {
 				<button type="button" className="nav__connect" onClick={connectHandler}>
 					Connect
 				</button>
-			)} */}
+			)}
 
-			<ConnectButton />
+			{/* <ConnectButton /> */}
 
 			<ul className="nav__links">
 				<li>
